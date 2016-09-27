@@ -1,0 +1,18 @@
+DAN'S "HOW TO MERGE PICTURES"
+
+Open the required pictures - 3 or 4 at once
+
+open a new image 4 times the width of one picture
+
+crop each individual picture as required
+
+re-size each to the same height
+
+copy to new image (paste as a new layer0
+
+merge all layers
+
+crop the result if necessary
+
+export, rather than save.
+

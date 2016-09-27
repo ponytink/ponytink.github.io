@@ -1,0 +1,6 @@
+<html>
+<body background="maindiary.jpg">
+<right><table cellpadding=4 cellspacing=4>
+<tr><td><td><td><td><td><td><td><td><td><td><td><td><td><td><td><td><td><td><td><td><td><td><font size=1 face=Arial><center>Hello, and welcome to <i>The Diary of an Old Fart</i>.<BR><BR>To navigate the site, simply select a book from the shelf, and start reading.<BR><BR>To see what each book holds before picking it up, leave the cursor over it, and you'll be told.<BR><BR>I hope you enjoy reading these stories as much as I like to tell them,<BR><BR>Again and Again and Again and Again and Again and Again...</td></tr></table>
+</body>
+</html>
